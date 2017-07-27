@@ -1,4 +1,4 @@
-package ben.srtcreator;
+package com.ben.srtcreator;
 
 import java.awt.BorderLayout;
 import java.awt.Component;

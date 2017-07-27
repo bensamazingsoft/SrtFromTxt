@@ -5,4 +5,4 @@
  * @author ben
  *
  */
-package ben.srtcreator.ui;
+package com.ben.srtcreator;

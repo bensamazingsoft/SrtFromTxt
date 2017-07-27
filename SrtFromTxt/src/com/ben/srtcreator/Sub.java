@@ -1,4 +1,4 @@
-package ben.srtcreator;
+package com.ben.srtcreator;
 
 public class Sub {
 
