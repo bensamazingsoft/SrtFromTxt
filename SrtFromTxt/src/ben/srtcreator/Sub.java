@@ -1,4 +1,4 @@
-package srtfromtxt;
+package ben.srtcreator;
 
 public class Sub {
 

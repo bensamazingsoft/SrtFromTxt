@@ -4,7 +4,7 @@ import javax.swing.JFrame;
 import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
 
-import ui.MainPnl;
+import ben.srtcreator.ui.MainPnl;
 
 public class Main {
 

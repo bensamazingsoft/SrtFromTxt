@@ -1,4 +1,4 @@
-package ui;
+package ben.srtcreator.ui;
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;
@@ -21,7 +21,8 @@ import javax.swing.JTextField;
 import javax.swing.SwingConstants;
 import javax.swing.filechooser.FileNameExtensionFilter;
 
-import srtfromtxt.Txt2Srt;
+import ben.srtcreator.Txt2Srt;
+
 import javax.swing.border.TitledBorder;
 import javax.swing.JCheckBox;
 

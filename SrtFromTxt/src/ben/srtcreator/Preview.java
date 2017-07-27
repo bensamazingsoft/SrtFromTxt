@@ -1,4 +1,4 @@
-package srtfromtxt;
+package ben.srtcreator;
 
 import java.awt.BorderLayout;
 import java.awt.Component;

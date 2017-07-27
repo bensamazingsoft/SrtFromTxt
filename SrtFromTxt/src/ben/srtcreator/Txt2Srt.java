@@ -1,4 +1,4 @@
-package srtfromtxt;
+package ben.srtcreator;
 
 import java.io.BufferedReader;
 import java.io.File;
